@@ -1,5 +1,0 @@
----
-
-- hosts: vpn
-  roles:
-    - tinc
